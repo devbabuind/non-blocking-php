@@ -45,7 +45,7 @@ Import the required classes into your namespace:
 use DevBabuInd\NonBlockingPHP\Execute;
 ```
 
-Instantiate a new shell runner:
+Instantiate a new Execute:
 
 ```php
 $execute = new Execute(array('autoMode' => true));
