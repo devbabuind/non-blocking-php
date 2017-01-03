@@ -3,6 +3,31 @@ non-blocking-php
 
 Library for non blocking background jobs in PHP 
 
+Installation
+============
+
+Install composer in your project:
+
+```bash
+curl -s https://getcomposer.org/installer | php
+```
+
+Create a `composer.json` file in your project root:
+
+```json
+{
+    "require": {
+        "devbabuind/non-blocking-php": "dev-master"
+    }
+}
+```
+
+Install via composer:
+
+```bash
+php composer.phar install
+```
+
 Basic Usage
 ===========
 
