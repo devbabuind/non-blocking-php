@@ -1,0 +1,20 @@
+{
+    "name": "devbabuind/non-blocking-php",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Babu M",
+            "email": "developerbabu@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "DevBabuInd\\NonBlockingPHP\\": "src/"
+        }
+    }
+}
